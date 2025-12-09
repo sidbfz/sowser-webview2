@@ -8,9 +8,7 @@ A spatial web browser prototype that uses an infinite canvas instead of traditio
 
 ## Demo
 
-[![Sowser Demo](https://img.youtube.com/vi/t72k_TPjjTs/maxresdefault.jpg)](https://youtu.be/t72k_TPjjTs)
-
-▶️ [Watch the demo video](https://youtu.be/t72k_TPjjTs)
+https://github.com/user-attachments/assets/d74108a1-f5dc-4cb9-b901-3904ac0fa59a
 
 ## What is Sowser?
 
