@@ -6,6 +6,12 @@ A spatial web browser prototype that uses an infinite canvas instead of traditio
 ![WPF](https://img.shields.io/badge/WPF-Desktop-blue?style=flat-square)
 ![WebView2](https://img.shields.io/badge/WebView2-Chromium-green?style=flat-square)
 
+## Demo
+
+[![Sowser Demo](https://img.youtube.com/vi/t72k_TPjjTs/maxresdefault.jpg)](https://youtu.be/t72k_TPjjTs)
+
+▶️ [Watch the demo video](https://youtu.be/t72k_TPjjTs)
+
 ## What is Sowser?
 
 Inspired by [Obsidian](https://obsidian.md/), Sowser reimagines web browsing as a visual workspace. Instead of cramming dozens of tabs into a tiny bar, web pages appear as draggable cards on an infinite canvas that you can organize spatially.
