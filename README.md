@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/d74108a1-f5dc-4cb9-b901-3904ac0fa59a
 
 ## What is Sowser?
 
-Inspired by [Obsidian](https://obsidian.md/), Sowser reimagines web browsing as a visual workspace. Instead of cramming dozens of tabs into a tiny bar, web pages appear as draggable cards on an infinite canvas that you can organize spatially.
+Sowser reimagines web browsing as a visual workspace. Instead of cramming dozens of tabs into a tiny bar, web pages appear as draggable cards on an infinite canvas that you can organize spatially.
 
 ## Features
 
